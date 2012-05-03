@@ -1,5 +1,5 @@
 <?php 
-include_once('../includes/geshi.php');
+include_once('../_global/geshi.php');
 
 function markupLinks($html,$uri)
 {
